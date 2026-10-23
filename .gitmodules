@@ -1,0 +1,3 @@
+[submodule "Labs/Lab #3/nanoGPT"]
+	path = "Labs/Lab #3/nanoGPT"
+	url = https://github.com/karpathy/nanoGPT.git
